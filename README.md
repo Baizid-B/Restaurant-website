@@ -149,7 +149,7 @@ bistro-boss-restaurant/
 ## 👨‍💻 Author
 
 **Baizid Bostami**
-- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/baizid-bostami-36962b292/))
+- LinkedIn: [https://www.linkedin.com/in/baizid-bostami-36962b292/]
 - Email: mdbaizidbostami196@gmail.com
 
 
