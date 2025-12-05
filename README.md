@@ -145,36 +145,17 @@ bistro-boss-restaurant/
 - View all orders
 - Dashboard analytics
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Baizid Bostami**
+- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/baizid-bostami-36962b292/))
+- Email: mdbaizidbostami196@gmail.com
 
-## 🙏 Acknowledgments
-
-- Restaurant images from [Unsplash](https://unsplash.com)
-- Icons from [React Icons](https://react-icons.github.io/react-icons/)
-- UI inspiration from modern restaurant websites
 
 ## 📞 Support
 
-For support, email your.email@example.com or create an issue in this repository.
+For support, email mdbaizidbostami196@gmail.com or create an issue in this repository.
 
 ---
 
