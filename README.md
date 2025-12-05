@@ -58,7 +58,7 @@ A full-stack restaurant management web application built with React and Firebase
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/bistro-boss-restaurant.git
+   git clone [https://github.com/Baizid-B/Restaurant-website.git]
    cd bistro-boss-restaurant
    ```
 
